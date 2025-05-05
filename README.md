@@ -1,7 +1,7 @@
 # UartRC
 Hover UART, Bluetooth, Wi-Fi remote control for Windows & Android
 
-Download app from releases
+Download app from releases https://github.com/novval/UartRC/releases
 
 ![image](https://github.com/user-attachments/assets/2cebff4d-b317-4bc9-9fed-205549a6c883)
 
